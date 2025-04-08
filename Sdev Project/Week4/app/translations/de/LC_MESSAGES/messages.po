@@ -1,0 +1,64 @@
+# German translations for PROJECT.
+# Copyright (C) 2023 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-02-28 13:37+0000\n"
+"PO-Revision-Date: 2023-02-28 13:38+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: de\n"
+"Language-Team: de <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.11.0\n"
+
+#: templates/base.html:9
+msgid "Business Casual - Start Bootstrap Theme"
+msgstr "Business Casual - Starten Sie das Bootstrap-Design"
+
+#: templates/base.html:24
+msgid "A Free Bootstrap Business Theme"
+msgstr "Ein kostenloses Bootstrap Business-Thema"
+
+#: templates/base.html:25
+msgid "Business Casual"
+msgstr "Business-Casual"
+
+#: templates/base.html:35
+msgid "Home"
+msgstr "Startseite"
+
+#: templates/base.html:36
+msgid "About"
+msgstr "Um"
+
+#: templates/base.html:37
+msgid "Products"
+msgstr "Produkte"
+
+#: templates/base.html:38
+msgid "Store"
+msgstr "Speichern"
+
+#: templates/base.html:44
+msgid "English"
+msgstr "Englisch"
+
+#: templates/base.html:45
+msgid "French"
+msgstr "Französisch"
+
+#: templates/base.html:46
+msgid "German"
+msgstr "Deutsch"
+
+#: templates/base.html:53
+msgid "Copyright  Your Website 2022"
+msgstr "Copyright Ihrer Website 2022"
+
